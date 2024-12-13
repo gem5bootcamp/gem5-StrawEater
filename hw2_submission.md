@@ -1,5 +1,5 @@
 # Homework 2: Design space exploration
-Juan Ignacio Bustos Gorostegui
+Juan Ignacio Bustos Gorostegui\
 juani8.bustos@gmail.com
 
 ## NAS Parallel Benchmarks
