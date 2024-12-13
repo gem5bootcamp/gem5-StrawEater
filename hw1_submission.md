@@ -1,5 +1,5 @@
 # Homework 1: Cache Coherence
-Juan Ignacio Bustos Gorostegui
+Juan Ignacio Bustos Gorostegui\
 juani8.bustos@gmail.com
 
 ## Data from a 100 runs:
